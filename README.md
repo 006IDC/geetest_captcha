@@ -1,5 +1,11 @@
 # GeeTest CAPTCHA v4 for ZJMF-CBAP V10
 
+[![CI](https://github.com/006IDC/geetest_captcha/actions/workflows/ci.yml/badge.svg)](https://github.com/006IDC/geetest_captcha/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/006IDC/geetest_captcha)](https://github.com/006IDC/geetest_captcha/releases)
+[![License](https://img.shields.io/github/license/006IDC/geetest_captcha)](LICENSE)
+
+由 [零零陆云计算（006IDC）](https://github.com/006IDC) 独立维护。
+
 适用于 ZJMF-CBAP V10 的极验行为验证第四代（GT4）插件，为登录、注册、后台登录、重置密码以及验证或修改联系方式等安全操作提供人机验证。
 
 当前版本：`1.3.0`
