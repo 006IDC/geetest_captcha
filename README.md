@@ -1,4 +1,4 @@
-# V10 极验 GT4 验证插件
+# V10 极验 GT4 插件（开源版）
 
 ## 产品介绍
 
@@ -8,7 +8,7 @@
 
 | 项目 | 公开说明 |
 | --- | --- |
-| 公开发行版本 | [v1.3.0](https://github.com/006IDC/geetest_captcha/releases/tag/v1.3.0) |
+| 公开发行版本 | [v1.3.0](https://github.com/006IDC/v10-geetest-gt4-public/releases/tag/v1.3.0) |
 | 适用环境 | ZJMF-CBAP V10 / PHP 7.3+；curl、json、hash 与 V10 缓存 |
 | 使用边界 | 此页对应公开 v1.3.0。公开说明要求多节点使用共享缓存，浏览器与服务器均需能访问极验官方服务；目标部署兼容性仍需核对。 |
 
@@ -22,7 +22,7 @@
 
 ## 使用与升级
 
-从 [Releases](https://github.com/006IDC/geetest_captcha/releases) 下载 `geetest_captcha_v1.3.0_zjmf_v10_import.zip`，不要解压或重新压缩，直接在 V10 验证码插件管理页上传、安装并启用。配置同一应用的 Captcha ID 和 Captcha Key；指定验证形态须先在极验控制台开通。升级和系统要求见[技术说明](docs/repository-guide.md)及[部署说明](DEPLOYMENT.md)。
+从 [Releases](https://github.com/006IDC/v10-geetest-gt4-public/releases) 下载 `geetest_captcha_v1.3.0_zjmf_v10_import.zip`，不要解压或重新压缩，直接在 V10 验证码插件管理页上传、安装并启用。配置同一应用的 Captcha ID 和 Captcha Key；指定验证形态须先在极验控制台开通。升级和系统要求见[技术说明](docs/repository-guide.md)及[部署说明](DEPLOYMENT.md)。
 
 ## 版本演进
 
